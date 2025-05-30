@@ -1,4 +1,4 @@
-![Mingkhemx](img/github-header-1.jpg)
+![Mingkhemx](img/github-header.jpg)
 
 <br><br>
 
